@@ -74,6 +74,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 .idea
+.vsconfig
 
 Content/StarterContent
 Content/Developers
